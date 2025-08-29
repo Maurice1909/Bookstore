@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bookstore-ui
-        image: ghcr.io/<your-github-username>/bookstore-ui:1.0 # Change this
+        image: ghcr.io/maurice1909/bookstore-ui:1.0 
         ports:
         - containerPort: 3000
 
